@@ -1,0 +1,7 @@
+{
+  "name": "personal-review-coach",
+  "displayName": "Personal Review Coach",
+  "version": "0.3.0",
+  "description": "Portable Claude Code and VS Code Copilot annual and quarterly review skills with evidence ledger, cross-year comparison, and goal history.",
+  "author": {"name": "Independent community starter"}
+}
